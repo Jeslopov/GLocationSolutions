@@ -1,0 +1,1 @@
+export const SimpleExampleMessage = `This is a simple example of an input usig the google autocomplete feature.`;

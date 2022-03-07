@@ -1,0 +1,1 @@
+export const SimpleExampleStyledMessage = `This is the exact same code as the "Simple Example" we just added one css file and imported it to style the google dropdown`;

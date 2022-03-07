@@ -1,0 +1,17 @@
+.input {
+    width: 300px;
+    height: 48px;
+    border: none;
+    outline: none;
+    font-family:  'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', sans-serif;
+    border-radius: 6px;
+    padding-inline-start: 16px;
+    padding-inline-end: 16px;
+    line-height: 20px;
+    font-size: 20px;
+}
+
+.input:hover, .input:focus, .input:focus-visible{
+    border: none;
+    outline: none;
+}
